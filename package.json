@@ -1,0 +1,27 @@
+{
+  "name": "way-farer",
+  "version": "1.0.0",
+  "description": "WayFarer is a public bus transportation booking service.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "eslint": "eslint --init",
+    "lint": "eslint *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atlabinc/way-farer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atlabinc/way-farer/issues"
+  },
+  "homepage": "https://github.com/atlabinc/way-farer#readme",
+  "devDependencies": {
+    "eslint": "^7.7.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0"
+  }
+}
